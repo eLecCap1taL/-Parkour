@@ -1,2 +1,2 @@
-# -Parkour
+# Parkour
 Minecraft Parkour Data Pack
